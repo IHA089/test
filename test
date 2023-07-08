@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 /usr/share/ihaahi/test/start.py
+python3 /usr/share/ihaahi/test/test-main/start.py
